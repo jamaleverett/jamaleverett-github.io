@@ -449,7 +449,7 @@ li {
 /*end animations*/
 /*--*/
 /*Start media queries*/
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px) and (min-width: 500px) {
     body {
 
         background: url('imgs/bg_44.jpg') no-repeat center center fixed;
