@@ -1,2 +1,2 @@
-# jamaleverett-github.io
+# jamaleverett.github.io
 Personal Website
