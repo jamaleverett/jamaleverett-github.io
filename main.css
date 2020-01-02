@@ -120,7 +120,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    line-height: 1.5;          
+    line-height: 2.5;          
 }
 
 li {
@@ -391,7 +391,7 @@ li {
     margin-top: 2.5rem;
     font-size: 1.5rem;
     text-transform: uppercase;
-    color:whitesmoke
+    color:whitesmoke;
     transition: color 650ms;
     animation: pulse 2s infinite;
 }
